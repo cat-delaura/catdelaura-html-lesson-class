@@ -53,7 +53,7 @@ h3 {
 
 dl {
   font-family: 'Franklin Gothic', Arial, sans-serif;
-  font-size: 1.75rem;
+  font-size: 1.75em;
   padding: 12px 0;
 }
 
@@ -66,10 +66,12 @@ dt {
 ul {
   list-style-position: inside;
   list-style-type: square;
+  padding-left: 0;
 }
 
 ol {
   list-style-position: inside;
+  padding-left: 0;
 }
 
 #nutrition li {
